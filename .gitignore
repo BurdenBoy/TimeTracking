@@ -1,2 +1,8 @@
 # Visual Studio 2015/2017 cache/options directory
 *.vs/
+/TimeTracking/obj/Release/Controls
+/TimeTracking/obj/Release/TempPE
+/TimeTracking/obj/Release
+/TimeTracking/bin/Release
+/TimeTracking/bin/Debug
+/TimeTracking/obj/Debug
