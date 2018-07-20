@@ -1,0 +1,23 @@
+﻿<Window x:Class="TimeTracking.Controls.AddCategoryDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeTracking.Controls"
+        mc:Ignorable="d"
+        Title="Kategorie hinzufügen" SizeToContent="WidthAndHeight" x:Name="AddCategoryWindow" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="160"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Content="Name:"/>
+        <TextBox Margin="5" Grid.Row="0" Grid.Column="1" Text="{Binding Name}"/>
+        <Button Width="50" Height="20" HorizontalAlignment="Left" Margin="5,0,0,0" Content="OK" Grid.Row="1" Grid.Column="1" Command="{Binding OkClicked}" CommandParameter="{Binding ElementName=AddCategoryWindow}"/>
+        <Button Width="70" Height="20" HorizontalAlignment="Right" Margin="0,0,5,0" Content="Abbrechen" Grid.Row="1" Grid.Column="1" Command="{Binding CancelClicked}" CommandParameter="{Binding ElementName=AddCategoryWindow}"/>
+    </Grid>
+</Window>

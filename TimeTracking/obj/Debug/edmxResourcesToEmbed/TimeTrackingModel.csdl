@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TimeTrackingDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TimeTrackingDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Activities" EntityType="TimeTrackingDBModel.Activity" />
+    <EntitySet Name="TimeEntries" EntityType="TimeTrackingDBModel.TimeEntry" />
+    <AssociationSet Name="FK_TimeEntry_ToTable" Association="TimeTrackingDBModel.FK_TimeEntry_ToTable">
+      <End Role="Activity" EntitySet="Activities" />
+      <End Role="TimeEntry" EntitySet="TimeEntries" />
+    </AssociationSet>
+    <EntitySet Name="Categories" EntityType="TimeTrackingDBModel.Category" />
+    <AssociationSet Name="FK_Activity_ToTable" Association="TimeTrackingDBModel.FK_Activity_ToTable">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Activity" EntitySet="Activities" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Activity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TimeEntries" Relationship="TimeTrackingDBModel.FK_TimeEntry_ToTable" FromRole="Activity" ToRole="TimeEntry" />
+    <Property Name="CategoryID" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="TimeTrackingDBModel.FK_Activity_ToTable" FromRole="Activity" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="TimeEntry">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ActivityID" Type="Int32" />
+    <Property Name="CreationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Duration" Type="Double" Nullable="false" />
+    <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Activity" Relationship="TimeTrackingDBModel.FK_TimeEntry_ToTable" FromRole="TimeEntry" ToRole="Activity" />
+  </EntityType>
+  <Association Name="FK_TimeEntry_ToTable">
+    <End Type="TimeTrackingDBModel.Activity" Role="Activity" Multiplicity="0..1" />
+    <End Type="TimeTrackingDBModel.TimeEntry" Role="TimeEntry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Activity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TimeEntry">
+        <PropertyRef Name="ActivityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Activities" Relationship="TimeTrackingDBModel.FK_Activity_ToTable" FromRole="Category" ToRole="Activity" />
+  </EntityType>
+  <Association Name="FK_Activity_ToTable">
+    <End Type="TimeTrackingDBModel.Category" Role="Category" Multiplicity="0..1" />
+    <End Type="TimeTrackingDBModel.Activity" Role="Activity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Activity">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,109 @@
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csprojResolveAssemblyReference.cache
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\MainWindow.g.cs
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\App.g.cs
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.cache
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.lref
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\MainWindow.baml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.g.resources
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.Properties.Resources.resources
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.GenerateResource.Cache
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.CoreCompileInputs.cache
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.exe
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\TimeTracking.pdb
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\Controls\Day.g.cs
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\Controls\Day.baml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\Controls\Month.g.cs
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\Controls\Month.baml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\CommonServiceLocator.dll
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\waeldet.000\Source\repos\TimeTracking\TimeTracking\obj\Debug\App.baml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\CommonServiceLocator.dll
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\Controls\Day.g.cs
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\Controls\Month.g.cs
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\MainWindow.g.cs
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\App.g.cs
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.cache
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.lref
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\App.baml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\Controls\Day.baml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\Controls\Month.baml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\MainWindow.baml
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.g.resources
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.Properties.Resources.resources
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.GenerateResource.Cache
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.CoreCompileInputs.cache
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.exe
+C:\Users\Timo\Downloads\TimeTracking\TimeTracking\obj\Debug\TimeTracking.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\CommonServiceLocator.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\EntityFramework.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\EntityFramework.xml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Day.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Month.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\MainWindow.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\App.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking_Content.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.cache
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking_MarkupCompile.lref
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\App.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Day.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Month.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\MainWindow.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.g.resources
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.Properties.Resources.resources
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.GenerateResource.Cache
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.CoreCompileInputs.cache
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.exe
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\TimeTracking.pdb
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Entry.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\Entry.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddEntryDialog.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddEntryDialog.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddActivityDialog.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddActivityDialog.baml
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddCategoryDialog.g.cs
+C:\Users\Timo\Documents\VS Projects\TimeTracking\TimeTracking\obj\Debug\Controls\AddCategoryDialog.baml
